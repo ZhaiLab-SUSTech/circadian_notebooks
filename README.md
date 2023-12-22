@@ -9,8 +9,7 @@
       - scanpy  (Used for downstream analysis of 10X data)
       - Seurat (Used for downstream analysis of 10X data)
       - scDblFinder (Used for removing putative doublets)
-      - scvi-tools (Used to implement 10X data integration)
-      - scanorama (Used to implement 10X data integration)
+      - SCTransform (Used to implement 10X data normalization)
       - harmonypy (Used to implement 10X data integration)
       - stereopy (Used for downstream analysis of stereoseq data)
       - metacycle (Used to identify circadian genes)
@@ -18,7 +17,7 @@
       - pyscenic (Used for calculating gene set expression score)
       - jpy_tools (A wrapper of single-cell analysis tools, which is available here [jpy_tools](https://github.com/liuzj039/jpy_tools/tree/master))
       - rpy2 (Used to implement invocation of R packages in python environment)
-      - clusterprofiler (Used to perform GO enrichmenth analysis)
+      - pygsea (Used to perform GO enrichmenth analysis)
 
 ## Main steps
 
