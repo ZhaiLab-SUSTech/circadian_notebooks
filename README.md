@@ -1,7 +1,7 @@
 ## Requirments
   1. Data Required
       - Genome file
-        - Arabidopsis (v11)
+        - Arabidopsis (TAIR10)
       - Raw data
         10x and stereo-seq data can be downloaded at [CNCB data base](https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA021408)
   2. Softwares Required
