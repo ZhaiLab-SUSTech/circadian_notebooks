@@ -15,7 +15,7 @@
       - metacycle (Used to identify circadian genes)
       - AUCell (Used for calculating gene set expression score)
       - pyscenic (Used for calculating gene set expression score)
-      - jpy_tools (A wrapper of single-cell analysis tools, which is available here [jpy_tools](https://github.com/liuzj039/jpy_tools/tree/master))
+      - jpy_tools (A wrapper of single-cell analysis tools, which is available here [jpy_tools](https://github.com/liuzj039/jpy_tools/tree/master/jModule))
       - rpy2 (Used to implement invocation of R packages in python environment)
       - pygsea (Used to perform GO enrichmenth analysis)
 
