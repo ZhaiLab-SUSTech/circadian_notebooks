@@ -1,9 +1,9 @@
 ## Requirments
   1. Data Required
       - Genome file
-        - Arabidopsis (TAIR10)
+        - Arabidopsis (Genome: TAIR10, GTF: Araport11)
       - Raw data
-        10x and stereo-seq data can be downloaded at [CNCB data base](https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA021408)
+        10x data can be downloaded at [CNCB data base](https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA021408)
   2. Softwares Required
       - CellRanger (Used for processing 10x raw data)
       - scanpy  (Used for downstream analysis of 10X data)
