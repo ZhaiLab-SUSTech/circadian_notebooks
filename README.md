@@ -29,7 +29,7 @@
 These jupyter files contains the scripts needed for downstream analysis. Github often fails to preview large jupyter files, so you can preview these files using [nbviewer](https://nbviewer.org/github/ZhaiLab-SUSTech/circadian_notebooks/tree/master/). 
 
 ## Others
-- The gene expression pattern can be explored at our [website](http://159.138.151.218:3589/)
+- The gene expression pattern can be explored at our [website]([http://159.138.151.218:3589/](https://zhailab.bio.sustech.edu.cn/sc_circadian/))
   - If you found any bugs in our website, please reported [here](https://github.com/ZhaiLab-SUSTech/circadian_notebooks/issues/new)
 
 ## Notes
